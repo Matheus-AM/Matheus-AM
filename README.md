@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Matheus Amaral, student of Software Engineering at the University of Brasília.<br>
+Welcome to my GitHub! (en-US)
+
+Eu sou Matheus Amaral, estudante de Engenharia de Software na Universidade de Brasília.<br>
+Bem-vindo ao meu GitHub! (pt-BR)
+
+
 <!--
 **Matheus-AM/Matheus-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
