@@ -1,10 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Matheus Amaral, Software Engineering student at the University of Brasília.<br>
-Welcome to my GitHub! (en-US)
+### I'm Matheus Amaral, Software Engineering student at the University of Brasília.<br> Welcome to my GitHub! (en-US)
 
-Eu sou Matheus Amaral, estudante de Engenharia de Software na Universidade de Brasília.<br>
-Bem-vindo ao meu GitHub! (pt-BR)
+### Eu sou Matheus Amaral, estudante de Engenharia de Software na Universidade de Brasília.<br> Bem-vindo ao meu GitHub! (pt-BR)
 
 
 <!--
