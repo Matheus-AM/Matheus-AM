@@ -2,13 +2,37 @@
 
 ### Eu sou estudante de Engenharia de Software na Universidade de Brasília.<br> Bem-vindo ao meu GitHub!
 
-- 🌱 Estou aprendendo sobre Blockchain, SSI e Web Security
-- 👯 Eu adoraria colaborar com as comunidades do Kotlin e da Hyperledger
-- 🎯 Gostaria de aprender mais sobre Gradle, Android, Gestão Humanizada, Visão Estratégica e Felicidade Organizacional.
-- 🤔 Eu gostaria de ajuda com Gerenciamento de Configuração de Software (CI/CD, YAML, Kubernets, Empacotamento)
-- 💬 Me pergunte sobre o que quiser! Adoraria falar sobre as peculiaridades de cada linguaguem de programação, framework, ou ferramenta de gestão de software.
-- 📎 Já estudei e/ou trabalhei com as tecnologias C, C++, Python, Ruby, Kotlin, Java, Go, Javascript/Typescript, C# (.NET/.NET Core), NodeJS, Vue, React, React Native, Electron, Docker, IoT (Raspberry Pi, ESP32, Modbus, Pub/Sub), Blockchain (Hyperledger Fabric, Hyperledger Indy), Código como Infraestrura (Shell, Powershell, Makefile), TDD, Arquitetura de Microserviços, Protobuf, gRPC, Hadoop, Spark, Kafka, SonarQube, SQLi, MATLAB, VHDL, Azure, Heroku.
-- 🤝 Já estudei e/ou trabalhei com as ferramentas Kanban, Figma, Roadmap, Velocity, Product Backlog, EVM, Scrum, XP, SQUAD, PMBOK, Diagramas UML (Classe, Pacotes, Entidade-Relacionamento, Lógico de Dados, Casos de Uso, Componentes, Sequência).
+### 🌱 Estou aprendendo sobre...
+- Blockchain
+- SSI
+- Web Security
+
+### 👯 Eu adoraria colaborar com as comunidades e ecossistemas...
+- Kotlin
+- Hyperledger
+- VS Code
+  
+### 🎯 Gostaria de aprender mais sobre...
+- Gradle
+- Android
+- Gestão Humanizada
+- Visão Estratégica
+- Felicidade Organizacional
+  
+### 🤔 Eu gostaria de ajuda com...
+Gerenciamento de Configuração de Software (CI/CD, YAML, Kubernets, Empacotamento)
+Desenho de Software (Arquitetura de Software e Ferramentas de suporte ao ciclo de vida do software)
+
+### 💬 Me pergunte sobre...
+O que quiser! Adoraria falar sobre as peculiaridades de cada linguaguem de programação, framework, ou ferramenta de gestão de software.
+
+### 📎 Já estudei e/ou trabalhei com as tecnologias...
+Tanto faz! Já perdi o medo de novas tecnologias, mas aqui estão algumas: C, C++, Python, Ruby, Kotlin, Java, Go, Javascript/Typescript, PHP, C# (.NET/.NET Core), NodeJS, Vue, React, React Native, Electron, Docker, IoT (Raspberry Pi, ESP32, Modbus, Pub/Sub), Blockchain (Hyperledger Fabric, Hyperledger Indy), Código como Infraestrura (Shell, Powershell, Makefile), TDD, Arquitetura de Microserviços, Protobuf, gRPC, Hadoop, Spark, Kafka, SonarQube, SQLi, MATLAB, VHDL, Azure, Heroku.
+### 🤝 Já estudei e/ou trabalhei com as ferramentas...
+Kanban, Roadmap, Velocity, Product Backlog, Figma, EVM, Scrum, XP, SQUAD, PMBOK, Diagramas UML (Classe, Pacotes, Entidade-Relacionamento, Lógico de Dados, Casos de Uso, Componentes, Sequência), BPMN.
+### 👀 Curiosidade: 
+Eu fiz e uso um template de C++ para deixá-lo com a sintaxe parecida com o Kotlin. A linguagem roxinha é a melhor 💜.
+
 
 ---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheusamaralm/)
