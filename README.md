@@ -9,9 +9,9 @@
 - 💬 Me pergunte sobre o que quiser! Adoraria falar sobre as peculiaridades de cada linguaguem de programação, framework, ou ferramenta de gestão de software.
 - 📎 Já estudei e/ou trabalhei com as tecnologias C, C++, Python, Ruby, Kotlin, Java, Go, Javascript/Typescript, C# (.NET/.NET Core), NodeJS, Vue, React, React Native, Electron, Docker, IoT (Raspberry Pi, ESP32, Modbus, Pub/Sub), Blockchain (Hyperledger Fabric, Hyperledger Indy), Código como Infraestrura (Shell, Powershell, Makefile), TDD, Arquitetura de Microserviços, Protobuf, gRPC, Hadoop, Spark, Kafka, SonarQube, SQLi, MATLAB, VHDL, Azure, Heroku.
 - 🤝 Já estudei e/ou trabalhei com as ferramentas Kanban, Figma, Roadmap, Velocity, Product Backlog, EVM, Scrum, XP, SQUAD, PMBOK, Diagramas UML (Classe, Pacotes, Entidade-Relacionamento, Lógico de Dados, Casos de Uso, Componentes, Sequência).
--  📫 Entre em contato: [Linked In](www.linkedin.com/in/matheusamaralm)
 
-
+---
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheusamaralm/)
 
 <!--
 **Matheus-AM/Matheus-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
