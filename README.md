@@ -2,10 +2,13 @@
 
 ### Eu sou estudante de Engenharia de Software na Universidade de Brasília.<br> Bem-vindo ao meu GitHub!
 
+### [🇺🇸 English version](https://github.com/Matheus-AM) (Work in progress...)
+
 ### 🌱 Estou aprendendo sobre...
 - Blockchain
 - SSI
 - Web Security
+- Criptografia
 
 ### 👯 Eu adoraria colaborar com as comunidades e ecossistemas...
 - Kotlin
