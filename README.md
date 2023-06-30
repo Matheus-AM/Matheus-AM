@@ -30,7 +30,7 @@ Desenho de Software (Arquitetura de Software e Ferramentas de suporte ao ciclo d
 O que quiser! Adoraria falar sobre as peculiaridades de cada linguaguem de programação, framework, ou ferramenta de gestão de software.
 
 ### 📎 Já estudei e/ou trabalhei com as tecnologias...
-Tanto faz! Já perdi o medo de novas tecnologias, mas aqui estão algumas: C, C++, Python, Ruby, Kotlin, Java, Go, Javascript/Typescript, PHP, C# (.NET/.NET Core), NodeJS, Vue, React, React Native, Electron, Docker, IoT (Raspberry Pi, ESP32, Modbus, Pub/Sub), Blockchain (Hyperledger Fabric, Hyperledger Indy), Código como Infraestrura (Shell, Powershell, Makefile), TDD, Arquitetura de Microserviços, Protobuf, gRPC, Hadoop, Spark, Kafka, SonarQube, SQLi, MATLAB, VHDL, Azure, Heroku.
+Tanto faz! Já perdi o medo de novas tecnologias, mas aqui estão algumas: C, C++, Python, Ruby, Kotlin, Java, Go, Javascript/Typescript, PHP, C# (.NET/.NET Core), NodeJS, Vue, React, React Native, Electron, Docker, IoT (Raspberry Pi, ESP32, Modbus, MQTT, Pub/Sub), Blockchain (Hyperledger Fabric, Hyperledger Indy), Código como Infraestrura (Shell, Powershell, Makefile), TDD, Arquitetura de Microserviços, Protobuf, gRPC, Hadoop, Spark, Kafka, SonarQube, SQLi, MATLAB, VHDL, Azure, Heroku.
 ### 🤝 Já estudei e/ou trabalhei com as ferramentas...
 Kanban, Roadmap, Velocity, Product Backlog, Figma, EVM, Scrum, XP, SQUAD, PMBOK, Diagramas UML (Classe, Pacotes, Entidade-Relacionamento, Lógico de Dados, Casos de Uso, Componentes, Sequência), BPMN.
 ### 👀 Curiosidade: 
