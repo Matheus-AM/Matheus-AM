@@ -20,7 +20,7 @@
 - Android
 - Gestão Humanizada
 - Visão Estratégica
-- Felicidade Organizacional
+- Felicidade Corporativa
   
 ### 🤔 Eu gostaria de ajuda com...
 Gerenciamento de Configuração de Software (CI/CD, YAML, Kubernets, Empacotamento)
