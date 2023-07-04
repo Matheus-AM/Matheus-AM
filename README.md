@@ -12,6 +12,7 @@
 
 ### 👯 Eu adoraria colaborar com as comunidades e ecossistemas...
 - Kotlin
+- Android Developers
 - Hyperledger
 - VS Code
   
@@ -39,7 +40,8 @@ Eu fiz e uso um template de C++ para deixá-lo com a sintaxe parecida com o Kotl
 
 ---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheusamaralm/)
-
+[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/macacod)
+[<img src="https://img.shields.io/badge/VJudge-757575?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://vjudge.net/user/macacod)
 <!--
 **Matheus-AM/Matheus-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
