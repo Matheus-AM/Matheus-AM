@@ -3,7 +3,7 @@
 - 🎓 Software Engineer at the University of Brasília.
 - 🌱 The main topics I'm studying right now are Software Quality, Software Process Improvement, Android, AWS and Web3.
 - 👯 WebDev enthusiast of desktop and mobile development.
-- 💬 To have a subject with me, just ask about programming languages specifics (especially Kotlin), Software Quality or Software Management. :P
+- 💬 To have a subject with me, just ask about programming languages specifics, Software Quality or Software Management. :P
 - 🛠 Planning to give old projects a closure with a little bit of maintenance and english description. 
 
 
